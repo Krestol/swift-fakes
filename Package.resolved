@@ -21,10 +21,10 @@
     {
       "identity" : "nimble",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Quick/Nimble.git",
+      "location" : "https://github.com/Krestol/Nimble.git",
       "state" : {
-        "revision" : "1c49fc1243018f81a7ea99cb5e0985b00096e9f4",
-        "version" : "13.3.0"
+        "revision" : "f340c29781b95fd2f7e89f6196b1aa9235bb5460",
+        "version" : "13.3.1"
       }
     },
     {
